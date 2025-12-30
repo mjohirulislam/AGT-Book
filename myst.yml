@@ -17,6 +17,8 @@ project:
     - file: book/chapter4.ipynb
     - file: book/chapter5.ipynb
     - file: book/chapter6.ipynb
+    - file: book/chapter7.ipynb
+    - file: book/chapter8.ipynb
 site:
   template: book-theme
   # options:
