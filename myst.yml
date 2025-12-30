@@ -22,6 +22,8 @@ site:
   #   favicon: favicon.ico
   #   logo: site_logo.png
   logo_text: Algorithimic Game Theory with Python
+  url: https://mjohirulislam.github.io
+  baseurl: /AGT-Book
 
 env:
   BASE_URL: /${{github.event.AGT-book}}
