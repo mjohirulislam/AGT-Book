@@ -21,6 +21,7 @@ site:
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+  logo_text: Algorithimic Game Theory with Python
 
 env:
   BASE_URL: /${{github.event.AGT-book}}
