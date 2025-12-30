@@ -7,4 +7,16 @@
   <url>
     <loc>http://localhost:3000/chapter2</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/chapter3</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/chapter4</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/chapter5</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/chapter6</loc>
+  </url>
 </urlset>
