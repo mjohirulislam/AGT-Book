@@ -1,13 +1,9 @@
 ---
 title: "Algorithimic Game Theory with Python"
-subtitle: "Mechanism Design Notes"
+subtitle: "Based on the course [``CS364A: Algorithmic Game Theory (Fall 2013)''](https://timroughgarden.org/f13/f13.html) by Dr. Tim Roughgarden"
 authors:
-  - name: "Md Johirul Islam"
+  - name: "Written by Md Johirul Islam"
 ---
-
-# Algorithimc Game Theory with Python
-
-**Author:** Md Johirul Islam
 
 ## About this book
 
