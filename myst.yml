@@ -19,3 +19,6 @@ site:
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+
+env:
+  BASE_URL: /${{github.event.AGT-book}}
