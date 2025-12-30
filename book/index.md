@@ -1,13 +1,16 @@
 ---
 title: "Algorithimic Game Theory with Python"
-subtitle: "Based on the course [CS364A: Algorithmic Game Theory (Fall 2013)](https://timroughgarden.org/f13/f13.html) by Dr. Tim Roughgarden"
+subtitle: ""
 authors:
   - name: "Written by Md Johirul Islam"
 ---
 
+
 ## About this book
 
-This book is a practical, intuition-first introduction to **mechanism design**—the “reverse game theory” toolkit for designing rules so that self-interested behavior leads to good outcomes. It focuses on the classic problem of **selling goods and allocating resources** when participants have private information, and shows how simple choices in rules (payment format, reserve prices, allocation constraints) can dramatically change incentives and results.
+This book is based on the course [CS364A: Algorithmic Game Theory (Fall 2013)](https://timroughgarden.org/f13/f13.html) by Dr. Tim Roughgarden.
+
+The book is a practical, intuition-first introduction to **mechanism design**—the “reverse game theory” toolkit for designing rules so that self-interested behavior leads to good outcomes. It focuses on the classic problem of **selling goods and allocating resources** when participants have private information, and shows how simple choices in rules (payment format, reserve prices, allocation constraints) can dramatically change incentives and results.
 
 Across the chapters, we build from basic auction formats (first-price and Vickrey) to the logic behind truthful mechanisms, then move into core ideas like **Myerson’s Lemma** and **revenue maximization**. Later chapters connect these principles to modern settings such as **algorithmic mechanism design**, where computational limits (like knapsack-style constraints) shape what can be implemented in practice.
 
