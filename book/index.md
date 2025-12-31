@@ -21,10 +21,11 @@ The goal is to make the theory usable: each chapter highlights the problem setup
 Use the left sidebar to navigate chapters. Use the search box to find keywords quickly.
 
 
-## About the Author
+### About the Author
 
-**Md Johirul Islam** is a Senior Research Associate at the **BRAC Institute of Governance and Development (BIGD), BRAC University**, and is attached to the **Gender and Social Development Cluster**. Work is carried out under the supervision of **Dr. Munshi Sulaiman**, **Dr. Khandker Wahedur Rahman**, and **Dr. Shaila Ahmed**. Previously, he worked as a Research Associate at the same institution and served as a remote Research Assistant for **Dr. Naila Kabeer** at the **London School of Economics (LSE)**.
+**Md Johirul Islam** is a Senior Research Associate at the **BRAC Institute of Governance and Development (BIGD), BRAC University**, attached to the Gender and Social Development Cluster. He works under the supervision of Dr. Munshi Sulaiman, Dr. Khandker Wahedur Rahman, and Dr. Shaila Ahmed. Previously, he served as a Research Associate at the same institution and worked remotely as a Research Assistant for Dr. Naila Kabeer at the **London School of Economics (LSE)**.
 
-A bachelor’s degree in **Economics** was earned from the **University of Chittagong, Bangladesh**, and a master’s degree in **Mathematics** is currently being pursued at the **Ahsanullah University of Science and Technology (AUST)**.
+He earned a bachelor’s degree in **Economics** from the **University of Chittagong, Bangladesh**, and he is currently pursuing a master’s degree in **Mathematics** at the **Ahsanullah University of Science and Technology (AUST)**.
+
 
 To know more about the author, you can visit his [website](https://mjohirulislam.github.io/).
